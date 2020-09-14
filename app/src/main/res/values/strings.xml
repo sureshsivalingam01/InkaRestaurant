@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Inka Restaurant</string>
+    <string name="viewCartItems">View Cart [0 items]</string>
+    <string name="rupees">Rs:36.00</string>
+    <string name="my_cart">My Cart</string>
+    <string name="review_orders">Review Orders</string>
+    <string name="show_more"><u>Show more</u></string>
+    <string name="delivery_options">Delivery Options</string>
+    <string name="dine_in">Dine-in</string>
+    <string name="take_way">Take way</string>
+    <string name="manage_cards">Manage Cards</string>
+    <string name="place_order">PLACE ORDER</string>
+    <string name="timing">5.0[200+] | All days : 09:00 AM - 06:00 PM</string>
+    <string name="book_a_table">Book a table</string>
+    <string name="reach_us">Reach us at : 9854562142</string>
+    <string name="starter">Starter</string>
+    <string name="menu">menu</string>
+    <string name="add">add</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="description">Description</string>
+    <string name="n">N</string>
+    <string name="d">D</string>
+    <string name="rupees_symbol">₹ </string>
+    <string name="_1">1</string>
+    <string name="viewCart">VIEW CART </string>
+    <string name="total_cost">total cost</string>
+</resources>
